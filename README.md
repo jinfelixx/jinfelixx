@@ -58,7 +58,7 @@ Projects focus on applying statistical inference to established financial models
 **Repository:** https://github.com/jinfelixx/Fama-French-3-Factor-Model-Evaluation.git
 * **Objective:** Empirically validate the explanatory power and cross-sectional differences of the Fama-French Three-Factor Model (FF3).
 * **Methodology:** Utilizing **Ordinary Least Squares (OLS) regression** to analyse statistical quantities including Betas, significance for various stock categories (e.g., small/large cap portfolios).
-* **Core Analysis:** Deploying **T-tests** and **ANOVA** to statistically test the significance of estimated factor exposures and the significance of differences *between* stock category factor loadings (e.g., testing if the SMB factor sensitivity is significantly different between large and small-cap stocks).
+* **Core Analysis:** Deploying **Multiple Regression** and **GRS** to statistically test the significance of estimated factor exposures (e.g., testing if the SMB factor sensitivity is significantly different between large and small-cap stocks).
 * **Status:** Functions for fetching and preparing stock data, as well as OLS function complete. Currently designing further statistical inference functions to further analyse and derive conclusions.
 
 #### 2. *Next Project Ideas*
