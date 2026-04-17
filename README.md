@@ -63,8 +63,6 @@ Projects focus on applying statistical inference to established financial models
 
 #### 2. *Next Project Ideas*
 
-- Volatility Analysis using EWM/GARCH
-- Montecarlo Backtesting
 
 ---
 ### Contact
